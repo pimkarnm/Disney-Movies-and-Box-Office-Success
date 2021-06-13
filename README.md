@@ -1,4 +1,4 @@
-# Disney Movies and Box Office Success Project
+# Disney Movies and Box Office Success
 
 **Project Description**
 
